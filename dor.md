@@ -1,0 +1,1 @@
+estou criando o projeto de Marcelo visa criar uma ia para desenvolver um aplicativo  para faculdade de sobre o segurança de vigilancia de cameras de monitoramento e controle de acesso a instituição de ensino 
